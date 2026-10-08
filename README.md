@@ -85,8 +85,8 @@ All business information, phone numbers, addresses, social media links, and visi
 export const siteConfig = {
   business: {
     name: "GST Suvidha Kendra",
-    phoneDisplay: "+91 98765 43210",
-    phoneRaw: "+91 9767943978",
+    phoneDisplay: "+91 9767943978",
+    phoneRaw: "919767943978",
     whatsappNumber: "919767943978",
     email: "contact@gstsuvidhakendra-example.com",
     address: { ... },

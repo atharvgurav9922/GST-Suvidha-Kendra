@@ -11,8 +11,8 @@ export const siteConfig = {
     tagline: "Your Trusted GST & Taxation Service Partner",
     legalNotice: "Authorised GSP / ASP Facilitation Center & Tax Advisory Support",
     phoneDisplay: "+91 9767943978",
-    phoneRaw: "91 9767943978", // Used for tel: links
-    whatsappNumber: "91 9767943978", // International format without '+' (e.g. 91XXXXXXXXXX)
+    phoneRaw: "919767943978", // Used for tel: links
+    whatsappNumber: "919767943978", // International format without '+' (e.g. 91XXXXXXXXXX)
     email: "gstsuvidhapangri@gmail.com",
     address: {
       line1: "Godase Galli ",
